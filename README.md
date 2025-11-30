@@ -41,6 +41,10 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuchsinHJ&hide_progress=true)
+
+---
+
 ## 🎮 Fun Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuchsinHJ/MuchsinHJ/output/pacman-contribution-graph-dark.svg">
